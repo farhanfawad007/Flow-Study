@@ -18,8 +18,7 @@ It has no graphical interface, web page, server or database. Everything runs in 
 ---
 
 ## 👥 Team
-**SYED FARHAN FAWAD** ([Your USN]), **SHUSHANT SHETTY** ([Teammate USN]), **Java track**
-
+**SYED FARHAN FAWAD** 1AT24CS231, **SHUSHANT SHETTY** 1AT24CS227 , **Java track**
 ---
 
 ## 🚀 How to run
